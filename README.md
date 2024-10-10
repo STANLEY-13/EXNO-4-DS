@@ -24,6 +24,39 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+### Name: STANLEY S
+### Reg. No: 212223110054
+
+![Screenshot 2024-04-17 000148](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/ddf342d4-24d8-42e8-a809-0ce56c731386)
+
+![Screenshot 2024-04-17 000218](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/b5872594-add8-4f7c-b66f-6fde9c39feaa)
+
+![Screenshot 2024-04-17 000241](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/9dc6c6b6-c4f7-483e-bf20-73f5379d5855)
+
+![Screenshot 2024-04-17 000258](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/48ddce82-67cf-474e-b453-7d585d553269)
+
+![Screenshot 2024-04-17 000310](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/62a9536a-0356-4d82-9476-9e65a0862beb)
+
+![Screenshot 2024-04-17 000321](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/f4e1a91f-b017-4595-8db3-c601a8e77482)
+
+![Screenshot 2024-04-17 000333](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/110a83c0-8045-4d86-8717-389a37ce9579)
+
+![Screenshot 2024-04-17 000357](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/0c04bf5c-a495-442c-8691-15321983aec0)
+
+![Screenshot 2024-04-17 000411](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/e728b9be-ddc4-456b-8bcf-e3f241581928)
+
+![Screenshot 2024-04-17 000425](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/cd3d9377-03f3-499e-b7d8-784a3fcb0e90)
+
+![Screenshot 2024-04-17 000438](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/de26b35d-6d1e-4e3f-bb01-e00c2a03555a)
+
+![Screenshot 2024-04-17 000447](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/b81d62fb-3760-4897-8385-87fcb858a08f)
+
+![Screenshot 2024-04-17 000500](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/aeed118b-1ef5-40d7-9a6e-81d4bc58846f)
+
+![Screenshot 2024-04-17 000516](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/d2865c1b-1738-40ed-864f-cd06e2c18a3c)
+
+![Screenshot 2024-04-17 000533](https://github.com/Hari-Prasath-P-08/EXNO-4-DS/assets/139455593/9bc73c70-bdff-4d44-88c4-84843c666fed)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+The programs are executed successfully.
